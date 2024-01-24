@@ -260,9 +260,9 @@ def Identification_(message: Message):
             return mrk
 
         Photo_user = f"https://t.me/{chan_inf.username}"
-        ttttxt = f"""𝑆𝑂𝑈𝑅𝐶𝐸 {chan_inf.title if chan_inf.title else chan_inf.first_name} ❍ 
+        ttttxt = f"""سورس {chan_inf.title if chan_inf.title else chan_inf.first_name} ❍ 
 
-˹ 𝙻𝙴𝙰𝙳𝙴𝚁 AHMAD ASAAD
+˹ 𐇮 𝑴𝑶𝑫𝒀 𖠮🚸𖠮 آلـۘهہؚيـٰـ‌ُـُ໋۠بـ໋ۘ۠ه 𐇮
 ~"""
         try:
             bot.send_photo(
